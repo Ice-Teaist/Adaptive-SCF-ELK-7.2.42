@@ -13,17 +13,19 @@ The above files need to be placed in the elk-7.2.42/src directory.
 
 Regarding the compilation of the program, we provide the modified elk-7.2.42/make.inc and elk-7.2.42/src/Makefile as references.
  
-It is worth noting that we use the LAPACK and BLAS libraries of Intel in make. inc (LIB_LPK).
+It is worth noting that we use the LAPACK and BLAS libraries of Intel in make.inc (LIB_LPK).
 
-In the adaptive preconditioning algorithm, we added two parameters: klambda and premix.
+For the adaptive preconditioning algorithm, we added two parameters: klambda and premix.
 
 klambda (real) 
 Default value: klambda = 0.6
+
 In the screened Poisson equation $(\nabla^2 - \lambda^2)V(\textbf{r})= - 4\pi\rho(\textbf{r})$, klambda =$\lambda$. 
 klambda is usually set to Thomas-Fermi wave number. In principle，it represents the inverse of a typical length scale over which an individual charged particle exerts a notable effect.  klambda = 0.6 is a common setting.
 
 premix (integer)
 Default value: premix = 0
+
 premix is the type of preconditioning:
 0	:  non-preconditioning;
 1	:  adaptive preconditioning;
