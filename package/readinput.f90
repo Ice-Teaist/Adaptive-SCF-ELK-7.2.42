@@ -94,7 +94,7 @@ mixtype=3
 amixpm(1)=0.05d0
 amixpm(2)=1.d0
 ! Broyden parameters recommended by M. Meinert
-mixsdb=5
+mixsdb=45
 broydpm(1)=0.4d0
 broydpm(2)=0.15d0
 epspot=1.d-6
