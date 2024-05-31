@@ -1,0 +1,290 @@
+ 
+(rotation matrices are in lattice coordinates)
+ 
+ 
+Species :    1 (Cu), atom :    1
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Cu), atom :    2
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Cu), atom :    3
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Cu), atom :    4
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Cu), atom :    5
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Cu), atom :    6
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Cu), atom :    7
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Cu), atom :    8
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Cu), atom :    9
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Cu), atom :   10
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Cu), atom :   11
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Cu), atom :   12
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
