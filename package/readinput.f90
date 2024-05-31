@@ -342,7 +342,7 @@ bdiag=.false.
 ramdisk=.false.
 
 klambda=0.6
-premix=0
+premix=1
 !--------------------------!
 !     read from elk.in     !
 !--------------------------!
