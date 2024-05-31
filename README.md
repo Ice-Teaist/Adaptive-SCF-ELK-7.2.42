@@ -15,7 +15,7 @@ The above files need to be placed in the elk-7.2.42/src directory.
 
 Regarding the compilation of the program, we provide the modified elk-7.2.42/make.inc and elk-7.2.42/src/Makefile as references.
  
-It is worth noting that we use the LAPACK and BLAS libraries of Intel in make.inc (MKLROOT, MKL_PATH, and LIB_LPK). It is worth noting that we used Intel compilers, and users need to modify the corresponding path according to their compiler.
+We use the LAPACK and BLAS libraries of Intel in make.inc (MKLROOT, MKL_PATH, and LIB_LPK). It is worth noting that we employed Intel compilers, and users need to modify the corresponding path according to their compiler.
 
 For the adaptive preconditioning algorithm, we added two parameters: klambda and premix.
 
