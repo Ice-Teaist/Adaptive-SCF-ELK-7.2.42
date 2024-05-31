@@ -1,5 +1,5 @@
 # Adaptive-SCF-ELK-7.2.42
-An adaptive preconditioning scheme that can identify the long-wavelength divergence behavior of the Jacobian during the SCF iteration based on Elk-7.2.42 package
+An adaptive preconditioning scheme that can identify the long-wavelength divergence behavior of the Jacobian and choose the appropriate preconditioning method during the SCF iteration.
 The adaptive preconditioning algorithm is implemented based on the Elk-7.2.42 package.
 
 This algorithm addes the following programs (in package):
