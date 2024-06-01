@@ -32,3 +32,5 @@ premix is the type of preconditioning:
 0	:  non-preconditioning;
 1	:  adaptive preconditioning;
 2	:  Kerker preconditioning.
+
+In addition, we provided some examples (in "EXAMPLE" directory) for users reference and use.
