@@ -1,0 +1,578 @@
+ 
+(rotation matrices are in lattice coordinates)
+ 
+ 
+Species :    1 (Si), atom :    1
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :    2
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :    3
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :    4
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :    5
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :    6
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :    7
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :    8
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :    9
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   10
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   11
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   12
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   13
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   14
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   15
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   16
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   17
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   18
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   19
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   20
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   21
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   22
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   23
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ 
+Species :    1 (Si), atom :   24
+   2 : nsymsite
+ 
+ Site symmetry :    1
+  spatial rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
+ 
+ Site symmetry :    2
+  spatial rotation :
+   0   1   0
+   1   0   0
+   0   0   1
+  global spin rotation :
+   1   0   0
+   0   1   0
+   0   0   1
